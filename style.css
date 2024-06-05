@@ -381,7 +381,7 @@ span{
     }
     
     
-    .portfolio-box .portfolio-layer {
+    .portfolio-box {
         position: absolute;
         bottom: 0;
         left: 0;
